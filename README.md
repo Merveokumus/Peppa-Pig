@@ -7,4 +7,4 @@ HTML5, CSS
 
 <h3>Show Screen </h3>
 
-![](gif-maker.gif)
+![](gif-make.gif)
